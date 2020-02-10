@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'Philosopher';
+	src: url("../fonts/Philosopher-Bold.woff2") format("woff2"),
+		url("../fonts/Philosopher-Bold.woff") format("woff");
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Gotham Pro Regular";
+	src: url("../fonts/GothamPro.woff2") format("woff2"),
+		url("../fonts/GothamPro.woff") format("woff");
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Manrope";
+	src: url("../fonts/Manrope-Regular.woff2") format("woff2"),
+		url("../fonts/Manrope-Regular.woff") format("woff");
+	font-display: swap;
+	font-style: 400;
+}
